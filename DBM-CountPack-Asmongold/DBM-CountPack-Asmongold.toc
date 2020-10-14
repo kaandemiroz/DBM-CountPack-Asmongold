@@ -1,0 +1,11 @@
+﻿## Interface: 80300
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Countpack Asmongold|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Shadock
+## Version: 1.0.1
+## X-DBM-CountPack: 1
+## X-DBM-CountPack-GlobalName: DBMCPAsmongold
+## X-Curse-Project-ID: 385685
+
+CountLoadList.lua
