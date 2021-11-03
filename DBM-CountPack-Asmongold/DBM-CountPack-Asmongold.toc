@@ -1,9 +1,11 @@
-﻿## Interface: 90100
+## Interface: 90105
+## Interface-Classic: 11400
+## Interface-BCC: 20502
 ## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Countpack Asmongold|r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Shadock
-## Version: 1.0.5
+## Version: 1.0.6
 ## X-DBM-CountPack: 1
 ## X-DBM-CountPack-GlobalName: DBMCPAsmongold
 ## X-Curse-Project-ID: 385685
