@@ -1,0 +1,5 @@
+package-as: DBM-CountPack-Asmongold
+enable-nolib-creation: no
+
+move-folders:
+  DBM-CountPack-Asmongold/DBM-CountPack-Asmongold: DBM-CountPack-Asmongold
