@@ -1,4 +1,4 @@
-## Interface: 100000
+## Interface: 100002
 ## Interface-Classic: 11403
 ## Interface-BCC: 20504
 ## Interface-Wrath: 30400
@@ -7,7 +7,7 @@
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Shadock
-## Version: 1.0.11
+## Version: 1.0.12
 ## X-DBM-CountPack: 1
 ## X-DBM-CountPack-GlobalName: DBMCPAsmongold
 ## X-Curse-Project-ID: 385685
