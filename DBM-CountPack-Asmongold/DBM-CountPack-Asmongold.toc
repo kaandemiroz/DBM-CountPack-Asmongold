@@ -1,13 +1,13 @@
-## Interface: 100206
-## Interface-Classic: 11404
+## Interface: 100207
+## Interface-Classic: 11502
 ## Interface-Wrath: 30403
 ## Interface-Cata: 40400
-## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Countpack Asmongold|r
-## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Звуки отсчёта из Asmongold|r
+## Title:|cffffe00a<|r|cffff7d0aDBM Media|r|cffffe00a>|r |cff308530Countpack Asmongold|r
+## Title-ruRU:|cffffe00a<|r|cffff7d0aDBM Медиа|r|cffffe00a>|r |cff308530Звуки отсчёта из Asmongold|r
 ## DefaultState: enabled
 ## RequiredDeps: DBM-Core
 ## Author: Shadock
-## Version: 1.0.20
+## Version: 1.0.21
 ## IconTexture: Interface\AddOns\DBM-Core\textures\dbm_airhorn
 ## X-DBM-CountPack: 1
 ## X-DBM-CountPack-GlobalName: DBMCPAsmongold
